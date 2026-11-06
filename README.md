@@ -1,4 +1,4 @@
-# Predict My Some Dinner!
+# Predict Me Some Dinner!
 
 A place for me to keep track of proposition bets I've go going with various folks.
 
