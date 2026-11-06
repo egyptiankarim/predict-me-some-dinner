@@ -1,6 +1,6 @@
 # Predict Me Some Dinner!
 
-A place for me to keep track of proposition bets I've go going with various folks.
+A place for me to keep track of proposition bets I've got going with various folks.
 
 ## Basic Structure
 
